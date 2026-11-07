@@ -7,8 +7,8 @@
 #include <Preferences.h>
 
 // Credenciais de rede local
-const char* ssid = "Familia";
-const char* password = "rocamboleegolias";
+const char* ssid = "SSID_WIFI";
+const char* password = "PASSWORD_WIFI";
 
 // Mapeamento dos pinos na protoboard
 const int pinoMotor  = 23; // Base do BC337 (4 motores em paralelo)
